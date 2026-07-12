@@ -37,8 +37,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kizzy899&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kizy GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizzy899&layout=compact&theme=tokyonight&hide_border=true" alt="Kizy top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kizzy899&amp;theme=tokyonight" alt="kizzy899 GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kizzy899&amp;theme=tokyonight" alt="kizzy899 top languages" />
 </p>
 
 <picture>
