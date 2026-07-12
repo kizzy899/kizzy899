@@ -27,24 +27,11 @@
   </tr>
 </table>
 
-### Connect
-
-<p>
-  <a href="https://twitter.com/kizzy899" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://kizzy899.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-36BCF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:eightjiu899@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,js,nodejs,vue,spring,mongodb,mysql,nginx,figma,blender,ps" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,nodejs,vue,mongodb,mysql,nginx,figma,blender" alt="Languages and tools" />
 </p>
 
 ### GitHub Stats
